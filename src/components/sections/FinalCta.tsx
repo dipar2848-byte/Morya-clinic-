@@ -82,7 +82,7 @@ export function FinalCta() {
               variants={fadeUp}
               className="mt-5 text-3xl font-bold leading-[1.1] text-white sm:text-4xl lg:text-[2.75rem]"
             >
-              Ready to Visit CNM Clinic?
+              Ready to Visit Morya Clinic?
             </motion.h2>
             <motion.p
               variants={fadeUp}
