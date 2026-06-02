@@ -40,7 +40,7 @@ export function Navbar() {
               <Plus className="h-5 w-5" strokeWidth={2.6} />
             </span>
             <span className="text-lg font-bold tracking-tight text-ink">
-              CNM <span className="text-gradient">Clinic</span>
+              Morya <span className="text-gradient">Clinic</span>
             </span>
           </a>
 
