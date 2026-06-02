@@ -19,7 +19,7 @@ export function Footer() {
                 <Plus className="h-5 w-5" strokeWidth={2.6} />
               </span>
               <span className="text-lg font-bold text-white">
-                CNM{" "}
+                Morya{" "}
                 <span className="bg-gradient-to-r from-secondary to-accent bg-clip-text text-transparent">
                   Clinic
                 </span>
