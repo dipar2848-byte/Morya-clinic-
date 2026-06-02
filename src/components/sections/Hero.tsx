@@ -50,7 +50,7 @@ export function Hero() {
           >
             <motion.span variants={fadeUp} className="eyebrow">
               <ShieldCheck className="h-3.5 w-3.5" />
-              CNM Clinic · Kamothe, Navi Mumbai
+              Morya Clinic · Kalamboli, Navi Mumbai
             </motion.span>
 
             <motion.h1
