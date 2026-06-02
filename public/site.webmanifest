@@ -1,0 +1,17 @@
+{
+  "name": "CNM Clinic",
+  "short_name": "CNM Clinic",
+  "description": "Reliable general and specialised treatment in Kamothe, Navi Mumbai.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0E7C86",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
