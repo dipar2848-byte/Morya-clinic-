@@ -48,7 +48,7 @@ export function About() {
                   <span className="text-gradient">human touch.</span>
                 </>
               }
-              subtitle="Morya Clinic provides reliable general and specialised treatment for the Kalamboli community, focused on careful diagnosis, clear guidance, and patient comfort."
+              subtitle="Morya Clinic provides reliable general and specialised treatment for the Kamothe community, focused on careful diagnosis, clear guidance, and patient comfort."
             />
 
             <motion.div
@@ -106,7 +106,7 @@ export function About() {
               className="absolute -bottom-5 left-1/2 -translate-x-1/2 rounded-2xl border border-white/60 bg-white/90 px-5 py-3 text-center shadow-premium backdrop-blur-xl"
             >
               <p className="text-lg font-extrabold text-gradient">Morya Clinic</p>
-              <p className="text-xs text-ink-muted">Kalamboli, Navi Mumbai</p>
+              <p className="text-xs text-ink-muted">Kamothe, Navi Mumbai</p>
             </motion.div>
           </motion.div>
         </div>
