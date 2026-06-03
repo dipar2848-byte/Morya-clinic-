@@ -3,9 +3,9 @@ export const CLINIC = {
   name: "Morya Clinic",
   shortName: "Morya",
   tagline: "Trusted Care, Close to Home",
-  phoneDisplay: "09970113992",
-  phoneRaw: "+9109970113992",
-  whatsappRaw: "9109970113992"
+  phoneDisplay: "9970113992",
+  phoneRaw: "+919970113992",
+  whatsappRaw: "919970113992"
 ",
   address:
     "Shop No. 6, Star Heaven CHS
