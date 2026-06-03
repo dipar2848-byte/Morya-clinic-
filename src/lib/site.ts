@@ -10,6 +10,8 @@ export const CLINIC = {
 
   address:
     "Shop No. 6, Star Heaven CHS, Plot No. 40, Sector 5, Kamothe, Panvel, Maharashtra 410209",
+
+  hours: "Mon - Sat: 10:00 AM - 8:00 PM",
 } as const;
 
 export const telHref = (raw: string) => `tel:${raw}`;
