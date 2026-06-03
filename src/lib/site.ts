@@ -1,14 +1,17 @@
 // Central place for clinic contact details + conversion links.
 export const CLINIC = {
-  name: "CNM Clinic",
-  shortName: "CNM",
+  name: "Morya Clinic",
+  shortName: "Morya",
   tagline: "Trusted Care, Close to Home",
-  phoneDisplay: "07738078241",
-  phoneRaw: "+917738078241",
-  whatsappRaw: "917738078241",
+  phoneDisplay: "09970113992",
+  phoneRaw: "+9109970113992",
+  whatsappRaw: "9109970113992"
+",
   address:
-    "Shop No. 2, Manisha Apartment, Near Ramsheth Thakur School, Sector 6A, Kamothe, Panvel, Navi Mumbai – 410209",
-  hours: "Open Daily · Morning & Evening Consultations",
+    "Shop No. 6, Star Heaven CHS
+Plot No. 40, Sector 5
+Kamothe, Panvel
+Maharashtra 410209"
 } as const;
 
 export const telHref = (raw: string) => `tel:${raw}`;
@@ -19,7 +22,7 @@ export const whatsappHref = (raw: string, message?: string) =>
   }`;
 
 export const DEFAULT_WA_MESSAGE =
-  "Hello CNM Clinic, I would like to book an appointment.";
+  "Hello Morya Clinic, I would like to book an appointment.";
 
 export const NAV_LINKS = [
   { label: "Home", href: "#home" },
