@@ -3,15 +3,13 @@ export const CLINIC = {
   name: "Morya Clinic",
   shortName: "Morya",
   tagline: "Trusted Care, Close to Home",
+
   phoneDisplay: "9970113992",
   phoneRaw: "+919970113992",
-  whatsappRaw: "919970113992"
-",
+  whatsappRaw: "919970113992",
+
   address:
-    "Shop No. 6, Star Heaven CHS
-Plot No. 40, Sector 5
-Kamothe, Panvel
-Maharashtra 410209"
+    "Shop No. 6, Star Heaven CHS, Plot No. 40, Sector 5, Kamothe, Panvel, Maharashtra 410209",
 } as const;
 
 export const telHref = (raw: string) => `tel:${raw}`;
