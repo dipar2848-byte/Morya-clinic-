@@ -26,7 +26,7 @@ export function Footer() {
               </span>
             </a>
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-white/60">
-              Reliable general and specialised treatment for the Kalamboli
+              Reliable general and specialised treatment for the Kamothe
               community, delivered with care and patient comfort.
             </p>
           </div>
@@ -92,7 +92,7 @@ export function Footer() {
           <p className="text-xs text-white/50">
             © {new Date().getFullYear()} {CLINIC.name}. All rights reserved.
           </p>
-          <p className="text-xs text-white/40">kalamboli, Navi Mumbai</p>
+          <p className="text-xs text-white/40">kamothe, Navi Mumbai</p>
         </div>
       </div>
     </footer>
